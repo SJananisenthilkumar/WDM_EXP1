@@ -78,7 +78,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1233" height="734" alt="Screenshot 2025-08-08 202203" src="https://github.com/user-attachments/assets/f91627bc-31f2-4f48-b91a-90be9c355f80" />
-![add](https://github.com/user-attachments/assets/5ec9d31e-4bc5-4d64-8e19-69e0fa6958af)
+<img width="874" height="582" alt="Screenshot 2025-08-08 204414" src="https://github.com/user-attachments/assets/f2e6046d-d8c7-4dc7-a911-c2857f7f86a0" />
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -96,7 +97,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1231" height="732" alt="Screenshot 2025-08-08 202524" src="https://github.com/user-attachments/assets/5ff4291f-a162-4f83-ba09-76d388018342" />
-![remove](https://github.com/user-attachments/assets/93b0ccdd-e4c9-4d34-99e2-5afbdca6b1f1)
+<img width="878" height="601" alt="Screenshot 2025-08-08 203813" src="https://github.com/user-attachments/assets/49f63919-cb64-43d5-a469-20aa874e5076" />
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -113,7 +116,8 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 <img width="1231" height="729" alt="Screenshot 2025-08-08 201908" src="https://github.com/user-attachments/assets/f9833122-f56d-4955-951d-68dc785cfb08" />
-![normalize](https://github.com/user-attachments/assets/3d8a86da-e460-4921-9e1d-cfdc4f2c3a14)
+<img width="797" height="523" alt="Screenshot 2025-08-08 204023" src="https://github.com/user-attachments/assets/de51fa14-4c82-4f4d-a97a-0304c168206b" />
+
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
